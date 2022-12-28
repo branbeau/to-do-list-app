@@ -1,4 +1,3 @@
-
 function newItem() {
 
 //javascript
@@ -70,13 +69,3 @@ function newItem() {
 //  }
    $('#list').sortable();
 */
-
-
-
-
-
-
-
-
-
-
