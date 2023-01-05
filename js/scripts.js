@@ -23,7 +23,7 @@ function newItem() {
   });
 
  //3(i). Adding the delete button "X": 
-  let crossOutButton = $('<crossOutButton>X</crossOutButton>');
+  let crossOutButton = $('<button class="del">X</button>'); 
 	li.append(crossOutButton);
 
  //3(ii). Adding CLASS DELETE (DISPLAY: NONE) from the css:
